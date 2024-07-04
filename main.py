@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 from options import show_options_dialog
-
+main
 # For terminal printing only
 GREEN = '\033[92m'
 RED = '\033[91m'
